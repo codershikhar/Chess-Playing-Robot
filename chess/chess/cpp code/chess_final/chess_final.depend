@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1451049022 source:c:\users\shikhar\desktop\chess\cpp code\chess_final\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+	<string>
+

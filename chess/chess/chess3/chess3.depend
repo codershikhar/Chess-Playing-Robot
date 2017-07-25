@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449762947 source:f:\sunny\project\chess\chess3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1449340745 source:f:\sunny\project\chess\chess3\moves.c
+

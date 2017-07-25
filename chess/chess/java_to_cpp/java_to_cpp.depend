@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449942729 source:f:\sunny\project\chess\java_to_cpp\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+	<string>
+
